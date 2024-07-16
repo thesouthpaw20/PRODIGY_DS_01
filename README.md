@@ -10,7 +10,8 @@ The dataset is loaded from a CSV file, and initial exploration steps are taken t
 
 A histogram is created to visualize the population distribution for the year 2020.
 
-![Population Distribution for the Year 2020](Graphs/Population_Distribution_for_the_Year_2020.png)
+![Population Distribution for the Year 2020](Graphs/Population_Distribuition_for_the_Year_2020.png)
+
 
 **Inference**:
 - The histogram of the population for 2020 shows that most countries have a population of fewer than 100 million people.
@@ -21,7 +22,7 @@ A histogram is created to visualize the population distribution for the year 202
 
 We analyze the population distribution in India from the year 2000 to 2020.
 
-![Population Distribution in India (2000-2020)](Graphs/Population_Distribution_in_India_2000-2020.png)
+![Population Distribution in India (2000-2020)](Graphs/Population_Distribuition_in_India_(2000-2020).png)
 
 **Inference**:
 - The population of India has steadily increased over the period from 2000 to 2020.
@@ -32,7 +33,8 @@ We analyze the population distribution in India from the year 2000 to 2020.
 
 We further compare the population distribution for the year 2023 and 2000, and analyze the population growth from 1960 to 2023.
 
-![Population Distribution Worldwide](Graphs/Population_Distribution_Worldwide.png)
+![Population Distribution Worldwide](Graphs/Population_Distribuition_(Worldwide).png)
+
 
 **Inference**:
 - **Population Distribution in 2023**: The histogram for 2023 shows a wide distribution of population values across countries, similar to the 2020 histogram. The majority of countries still have populations under 100 million, but there are more countries with higher populations compared to 2000.
